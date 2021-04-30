@@ -43,4 +43,4 @@ function mimicServerCall(url="http://mimicServer.example.com", config={}) {
         resolve("Pretend remote server notified of action!");
       }
     }, 300);
-  });
+  });}
